@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mad_exp10/static/css/main.31f921e7.css",
+    "main.js": "/mad_exp10/static/js/main.5af07d64.js",
+    "index.html": "/mad_exp10/index.html",
+    "main.31f921e7.css.map": "/mad_exp10/static/css/main.31f921e7.css.map",
+    "main.5af07d64.js.map": "/mad_exp10/static/js/main.5af07d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f921e7.css",
+    "static/js/main.5af07d64.js"
+  ]
+}
